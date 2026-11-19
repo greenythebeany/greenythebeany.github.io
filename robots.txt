@@ -3,3 +3,4 @@ Allow: /
 Sitemap: https://greenybeany.dev/sitemap.xml
 Sitemap: https://greenybeany.dev/me/sitemap.xml
 Sitemap: https://greenybeany.dev/triptych/sitemap.xml
+Sitemap: https://greenybeany.dev/BeanyIK/sitemap.xml
